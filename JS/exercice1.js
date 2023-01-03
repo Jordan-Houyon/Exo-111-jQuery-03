@@ -1,6 +1,6 @@
 // ------- 1 ------- //
 
-let math =$("#math-heading");
+let math = $("#math-heading");
 console.log(math);
 math.append("... Congratulations !!!!!!");
 
